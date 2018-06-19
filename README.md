@@ -6,6 +6,4 @@ HTML5, CSS3, JavaScript, Bootstrap for responsive layout were used and used Node
 
 The application was developed on Cloud9 IDE and used GIT for version control.
 
-The application is hosted on Heroku servers and Mongo Lab.
-
 Please see package.json to see dependencies and set up the project using npm. To start the server run 'node app.js' command.
